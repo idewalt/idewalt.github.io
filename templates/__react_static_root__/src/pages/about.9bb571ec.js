@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{63:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a);n.default=function(){return l.a.createElement("div",null,l.a.createElement("p",null,"Built by React Static. Power Tools for software engineers."),l.a.createElement("p",null,"Any suggestions please send to dewaltonline at gmail dot com"))}}}]);
